@@ -1,1 +1,1 @@
-From k8s.gcr.io/k8s-dns-kube-dns:1.15.10
+From http://docker.io/rook/ceph:master
