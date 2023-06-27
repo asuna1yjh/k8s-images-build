@@ -1,1 +1,1 @@
-From k8s.gcr.io/ingress-nginx/controller:v1.1.1
+From docker.io/rook/ceph:master
