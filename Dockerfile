@@ -1,1 +1,1 @@
-From golang:1.19.2
+From gcr.io/distroless/static:nonroot
