@@ -1,1 +1,1 @@
-From docker.io/rook/ceph:master
+From golang:1.19
