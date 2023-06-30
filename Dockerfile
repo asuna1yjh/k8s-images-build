@@ -1,1 +1,1 @@
-From gcr.io/distroless/static:nonroot
+From quay.io/cephcsi/cephcsi:v3.8.0
