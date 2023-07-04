@@ -1,1 +1,1 @@
-From registry.k8s.io/sig-storage/csi-attacher:v4.1.0
+From docker.io/bitnami/zookeeper:3.8.1-debian-11-r46
