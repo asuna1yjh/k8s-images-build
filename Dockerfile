@@ -1,1 +1,1 @@
-From docker.io/bitnami/zookeeper:3.8.1-debian-11-r46
+From gcr.io/kubebuilder/kube-rbac-proxy:v0.13.1
